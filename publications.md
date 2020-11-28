@@ -11,12 +11,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ikqyo5
 - **Multi-Task Text Classification using Graph Convolutional Neural Networks for Resource-Poor Language**  
 	**Mounika Marreddy**\*, Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
 	*WiML Workshop (at NIPS 2020)*.  
-	# [PDF](https://arxiv.org/pdf/2006.07898){: .btn}
+	#[PDF](https://arxiv.org/pdf/2006.07898){: .btn}
 	
 - **Unsupervised Graph based Telugu News Articles Text Summarization**  
 	Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, **Mounika Marreddy**\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
 	*WiML Workshop (at NIPS 2020)*.  
-	# [PDF](https://arxiv.org/pdf/2006.07898){: .btn}
+	#[PDF](https://arxiv.org/pdf/2006.07898){: .btn}
 
 	
 **2019**
@@ -24,9 +24,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ikqyo5
 - **Evaluating the Combination of Word Embeddings with Mixture of Experts and Cascading gcForest in Identifying Sentiment Polarity**  
 	**Mounika Marreddy**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
 	*IEEE Workshop on Automatic Speech Recognition and Understanding* (ASRU) 2019.  
-	# [PDF](){: .btn}
-	# [Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
-  	# [Poster](/static/poster/asru-19-poster.pdf){: .btn}
+	#[PDF](){: .btn}
+	#[Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
+  	#[Poster](/static/poster/asru-19-poster.pdf){: .btn}
 
 
 - **Using ASR methods for OCR**  

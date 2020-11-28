@@ -3,41 +3,8 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=Ikqyo5sAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
 <br />
-
-**Preprints**
-
-- **Frustratingly easy noise-aware training of acoustic models**  
-	**Desh Raj**, Jesus Villalba, Daniel Povey, Sanjeev Khudanpur  
-	*Submitted to IEEE ICASSP 2021*  
-	[PDF](https://arxiv.org/pdf/2011.02090){: .btn}
-
-
-**2021**
-
-- **Multi-class spectral clustering with overlaps for speaker diarization**  
-	**Desh Raj**, Zili Huang, Sanjeev Khudanpur  
-	*IEEE Spoken Language Technology (SLT) Workshop 2021*  
-	[PDF](https://arxiv.org/pdf/2011.02900.pdf){: .btn}
-	[Code](/pages/overlap-aware-sc/){: .btn}
-
-- **DOVER-Lap: A method for combining overlap-aware diarization outputs**  
-	**Desh Raj**, Paola Garcia, Zili Huang, Shinji Watanabe, Daniel Povey, Andreas Stolcke, Sanjeev Khudanpur  
-	*IEEE Spoken Language Technology (SLT) Workshop 2021*  
-	[PDF](https://arxiv.org/pdf/2011.01997){: .btn}
-	[Code](https://github.com/desh2608/dover-lap){: .btn}
-
-- **Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis**  
-	**Desh Raj**, Pavel Denisov, Zhuo Chen, Hakan Erdogan, Zili Huang, Maokui He, Shinji Watanabe, Jun Du, Takuya Yoshioka, Yi Luo, Naoyuki Kanda, Jinyu Li, Scott Wisdom, John R. Hershey  
-	*IEEE Spoken Language Technology (SLT) Workshop 2021*  
-	[PDF](https://arxiv.org/pdf/2011.02014){: .btn}
-	[Code](/pages/jsalt/){: .btn}
-
-- **Sequential multi-frame neural beamforming for speech separation and enhancement**  
-	Zhong-Qiu Wang, Hakan Erdogan, Scott Wisdom, Kevin Wilson, **Desh Raj**, Shinji Watanabe, Zhuo Chen, John R. Hershey  
-	*IEEE Spoken Language Technology (SLT) Workshop 2021*  
-	[PDF](https://arxiv.org/pdf/1911.07953.pdf){: .btn}
 
 **2020**
 
@@ -85,25 +52,6 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 	**Desh Raj**, Aditya Gupta, Bhuvnesh Garg, Kenil Tanna, Frank Chung-hoon Rhee.  
 	*IEEE Transactions on Fuzzy Systems*, 2017.  
 	[PDF](http://ieeexplore.ieee.org/document/7888454/){: .btn}
-
-
-**Non-refereed project reports:**
-
-- **Desh Raj**. *Semi-implicit variational inference for unsupervised acoustic unit discovery*.
-	[PDF](/static/report/aud.pdf){: .btn}
-- Tara Abrishami, **Desh Raj**, Noah Scribner, Vasileios Papaioannou. *Inference on Ohio redistricting maps from
-Congressional 2016 elections*.
-	[PDF](/static/report/ohio.pdf){: .btn}
-- **Desh Raj**. *Estimating bounds for bit-truncated word embeddings*.
-	[PDF](/static/report/bounds.pdf){: .btn}
-- Venkat Arun, **Desh Raj**, Mrinal Tak, Sumeet Ranka. *Fine-grained readability estimation using language modeling*.
-	[PDF](/static/report/readability.pdf){: .btn}
-- **Desh Raj**, Kanhaiya Rathi. *A survey of probabilistic databases*. 
-	[PDF](/static/report/dbms-survery.pdf){: .btn}
-- **Desh Raj**, Abhilasha Sancheti, Mrinal Tak, Kunaal Jain. *Monitoring production line performance to reduce manufacturing failures*.
-	[PDF](/static/report/bosch.pdf){: .btn}
-- **Desh Raj**, Sumeet Ranka, Siddharth Kumar, Akashdeep Goswami, Samyak Kumbhalwar. *Spatial transformer networks*.
-	[PDF](/static/report/stn.pdf){: .btn}
 
 <br /> 
 

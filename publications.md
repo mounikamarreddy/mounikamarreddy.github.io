@@ -8,21 +8,25 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ikqyo5
 
 **2020**
 
-- **The JHU multi-microphone multi-speaker ASR system for the CHiME-6 challenge**  
-	Ashish Arora\*, **Desh Raj**\*, Aswin Shanmugam Subramanian\*, Ke Li\*, Bar Benyair, Matthew Maciejewski, Piotr Zelasko, Paola Garcia, Shinji Watanabe, Sanjeev Khudanpur.  
-	*The 6th CHiME Workshop (at ICASSP 2020)*.  
-	[PDF](https://arxiv.org/pdf/2006.07898){: .btn}
-	[Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-  	[Slides](https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf){: .btn}
+- **Multi-Task Text Classification using Graph Convolutional Neural Networks for Resource-Poor Language**  
+	**Mounika Marreddy**\*, Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
+	*WiML Workshop (at NIPS 2020)*.  
+	# [PDF](https://arxiv.org/pdf/2006.07898){: .btn}
+	
+- **Unsupervised Graph based Telugu News Articles Text Summarization**  
+	Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, **Mounika Marreddy**\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
+	*WiML Workshop (at NIPS 2020)*.  
+	# [PDF](https://arxiv.org/pdf/2006.07898){: .btn}
 
+	
 **2019**
 
-- **Probing the infomation encoded in x-vectors**  
-	**Desh Raj**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
+- **Evaluating the Combination of Word Embeddings with Mixture of Experts and Cascading gcForest in Identifying Sentiment Polarity**  
+	**Mounika Marreddy**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
 	*IEEE Workshop on Automatic Speech Recognition and Understanding* (ASRU) 2019.  
-	[PDF](http://arxiv.org/pdf/1909.06351){: .btn}
-	[Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
-  	[Poster](/static/poster/asru-19-poster.pdf){: .btn}
+	# [PDF](){: .btn}
+	# [Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
+  	# [Poster](/static/poster/asru-19-poster.pdf){: .btn}
 
 
 - **Using ASR methods for OCR**  

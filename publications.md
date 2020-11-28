@@ -11,7 +11,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ikqyo5
 - **Multi-Task Text Classification using Graph Convolutional Neural Networks for Resource-Poor Language**  
 	**Mounika Marreddy**\*, Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
 	*WiML Workshop (at NIPS 2020)*.  
-	#[PDF](https://arxiv.org/pdf/2006.07898){: .btn}
+	[PDF](https://wimlworkshop.org/neurips2020/){: .btn}
 	
 - **Unsupervised Graph based Telugu News Articles Text Summarization**  
 	Lakshmi vakada sireesha\*, Venkata Charan Chinni\*, **Mounika Marreddy**\*, Subba Reddy Oota\*, Radhika Mamidi\*.  
